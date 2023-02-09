@@ -1,1 +1,1 @@
-This is a dead project. Please view another one of my projects. also the pypi and github page will never revived.
+Why are you here? this project is dead.
